@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AutoTailor", "AutoTailor\AutoTailor.vcxproj", "{C9AE23B0-B3EF-4131-B3DD-27A27E3E4279}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AutoTailor-Test", "Tests\AutoTailor-Test\AutoTailor-Test.vcxproj", "{C28C479A-0F9D-4D5D-8D2A-55CFD0E64B61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{C9AE23B0-B3EF-4131-B3DD-27A27E3E4279}.Release|x64.Build.0 = Release|x64
 		{C9AE23B0-B3EF-4131-B3DD-27A27E3E4279}.Release|x86.ActiveCfg = Release|Win32
 		{C9AE23B0-B3EF-4131-B3DD-27A27E3E4279}.Release|x86.Build.0 = Release|Win32
+		{C28C479A-0F9D-4D5D-8D2A-55CFD0E64B61}.Debug|x64.ActiveCfg = Debug|x64
+		{C28C479A-0F9D-4D5D-8D2A-55CFD0E64B61}.Debug|x64.Build.0 = Debug|x64
+		{C28C479A-0F9D-4D5D-8D2A-55CFD0E64B61}.Debug|x86.ActiveCfg = Debug|Win32
+		{C28C479A-0F9D-4D5D-8D2A-55CFD0E64B61}.Debug|x86.Build.0 = Debug|Win32
+		{C28C479A-0F9D-4D5D-8D2A-55CFD0E64B61}.Release|x64.ActiveCfg = Release|x64
+		{C28C479A-0F9D-4D5D-8D2A-55CFD0E64B61}.Release|x64.Build.0 = Release|x64
+		{C28C479A-0F9D-4D5D-8D2A-55CFD0E64B61}.Release|x86.ActiveCfg = Release|Win32
+		{C28C479A-0F9D-4D5D-8D2A-55CFD0E64B61}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
